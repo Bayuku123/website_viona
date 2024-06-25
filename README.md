@@ -1,8 +1,8 @@
-Website ini dibuat sebagi proyek tugas akhir mata kuliah Agama
+Website ini dibuat sebagi proyek Tugas Akhir Viona
 
 
-- Hanna Nathania Anindya(152021001)
-- Martin Halawa (152021231)
+- Viona Sembiring
+  
 
 ![alt text](https://github.com/JustTin1/Website_Gereja_Tubes_Agama/blob/main/images/thumbnail.png?raw=true)
 ![alt text](https://github.com/JustTin1/Website_Gereja_Tubes_Agama/blob/main/images/thumbnail2.png?raw=true)
